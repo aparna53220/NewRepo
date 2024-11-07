@@ -2,3 +2,4 @@ first line branch A
 second line branch A
 third line in branch A
 forth line in branch B
+Forth line 
